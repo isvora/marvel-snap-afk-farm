@@ -23,6 +23,7 @@ It works best with an agatha deck since she will do all the plays and the bot ca
 # How to use
 
 Make sure you have python installed (it has been tested with version 3.10)
+
 Make sure you have git installed
 
 ```bash
