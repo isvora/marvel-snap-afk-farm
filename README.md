@@ -38,7 +38,7 @@ You can retake those with any tool and replace them to match your resolution.
 
 # Run the bot
 $ pyton main.py
-```bash
+```
 
 # Disclaimer
 
