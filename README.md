@@ -38,7 +38,7 @@ In the resources folder you have screenshots from different in game buttons (pla
 You can retake those with any tool and replace them to match your resolution.
 
 # Run the bot
-$ pyton main.py
+$ python main.py
 ```
 
 # Disclaimer
